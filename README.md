@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @UserB3nj4m1n
-- 👀 I’m interested in living.
-- 🌱 I’m currently learning how to live.
-- 💞️ I’m looking to collaborate on livable location.
-- 📫 How to reach me through live action.
-- 😄 Pronouns: Alive
-- ⚡ Fun fact: I am alive
+- 👋 Hi, I’m Benjamín B.
+- 👀 I’m interested in linux server management.
+- 💞️ I’m looking to collaborate on fun project.
+- 📫 You can reach me through my socials: https://linktr.ee/benjaminbariciak.
+- ⚡ Fun fact: 
 
 <!---
 UserB3nj4m1n/UserB3nj4m1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
