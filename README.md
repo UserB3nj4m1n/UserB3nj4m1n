@@ -1,4 +1,4 @@
-# Hi there, I'm Benjamín Baričiak 👋
+# Hi there I am Ben 👋
 
 <p align="center">
   <b>Junior Angular Developer</b> & <b>Cloud / Linux Enthusiast</b> 🚀
